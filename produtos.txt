@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Ram 8gbx2 do rgb de asgard loki w2 16gb 32 3200mhz PC4-25600 ram ddr4 da memória do dimm ram ddr4 1.35v",
+    "link": "https://pt.aliexpress.com/item/33044155956.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-0&pdp_ext_f=%7B%22sku_id%22%3A%2267416360342%22%7D&pdp_npi=3%40dis%21BRL%21516.61%21309.97%21%21%21%21%21%40211be3cd16771126257624177d06d7%2167416360342%21sea%21BR%210&curPageLogUid=RWaKJbx5RIKM",
+    "bestPrice": "R$ 309,97"
+  },
+  {
+    "title": "Ram impressionante da memória do desktop do canal duplo de asgard w2 da série rgb ram ddr4 8gbx2 16gbx2 3200mhz PC4-25600 1.35v",
+    "link": "https://pt.aliexpress.com/item/1005003102290875.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000024757045952%22%7D&pdp_npi=3%40dis%21BRL%21894.39%21894.39%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000024757045952%21sea%21BR%210&curPageLogUid=xoZf7POPinV5",
+    "normalPrice": "R$ 894,39"
+  },
+  {
+    "title": "Asgard valkyrie v5 série ddr4 ram memória 8gbx2 3200mhz 3600mhz rgb ram polar branco overclocking desempenho para desktop",
+    "link": "https://pt.aliexpress.com/item/1005003306566248.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000025800696238%22%7D&pdp_npi=3%40dis%21BRL%21519.65%21519.65%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000025800696238%21sea%21BR%210&curPageLogUid=LALdYetJw88O",
+    "normalPrice": "R$ 519,65"
+  },
+  {
+    "title": "Ram 3200 v da memória do desktop do dimm do duplo-canal da série ddr4 de asgard memoria ram ddr4 8gbx2 16gbx2 1.35 mhz w2",
+    "link": "https://pt.aliexpress.com/item/1005003561712140.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-3&pdp_ext_f=%7B%22sku_id%22%3A%2212000026293740599%22%7D&pdp_npi=3%40dis%21BRL%21894.12%21894.12%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000026293740599%21sea%21BR%210&curPageLogUid=iCC0XiNaDTpH",
+    "normalPrice": "R$ 894,12"
+  },
+  {
+    "title": "Ddr3 4gb 8gb ram ddr4 8gb 16gb 2666 3200mhz pc4 21300 25600 memória desktop único módulo 1.2v 288pin memória ram memória",
+    "link": "https://pt.aliexpress.com/item/1005004733400072.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&aem_p4p_detail=2023022216370513011630374845180003456890&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000030446892564%22%7D&pdp_npi=3%40dis%21BRL%21124.81%2181.13%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000030446892564%21sea%21BR%210&curPageLogUid=pqUX5pLh0R8g&ad_pvid=2023022216370513011630374845180003456890_1&ad_pvid=2023022216370513011630374845180003456890_1",
+    "normalPrice": "R$ 81,13"
+  },
+  {
+    "title": "Asgard valkyrie v5 série rgb ram 8gbx2 16gbx2 3200mhz 3600mhz ram memoria computador desktop ddr4 8g 16g 3200mhz 3600mhz dimm rgb",
+    "link": "https://pt.aliexpress.com/item/1005004912377112.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000030994308612%22%7D&pdp_npi=3%40dis%21BRL%21549.93%21307.96%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000030994308612%21sea%21BR%210&curPageLogUid=TJCSn8ubfYvX",
+    "bestPrice": "R$ 307,96"
+  },
+  {
+    "title": "Memória série ddr4 ram pc 8gbx2 v5 série asgard 3200mhz 3600mhz cl14 rgb ram desempenho overclocking branco polar para desktop",
+    "link": "https://pt.aliexpress.com/item/1005004358617045.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000028893631938%22%7D&pdp_npi=3%40dis%21BRL%21524.86%21524.86%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000028893631938%21sea%21BR%210&curPageLogUid=UD1ezJwW3dsp",
+    "normalPrice": "R$ 524,86"
+  },
+  {
+    "title": "Asgard valkyrie v5 série rgb ram 16gb memória do pc ram memoria computador desktop ddr4 pc4 8g 16g 3200mhz 3600mhz dimm rgb",
+    "link": "https://pt.aliexpress.com/item/1005001874543175.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-7&pdp_ext_f=%7B%22sku_id%22%3A%2212000028106569469%22%7D&pdp_npi=3%40dis%21BRL%21611.04%21397.17%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000028106569469%21sea%21BR%210&curPageLogUid=6ICHY4GLvrUF",
+    "bestPrice": "R$ 397,17"
+  },
+  {
+    "title": "Asgard DDR4 RAM Feryr T3 Série 16GB(8GBx2) 3200MHz 3600MHz CL14 CL16 CL18 Sliver DDR4 RAM Memoria Ram Desktop MEMÓRIA RAM para PC",
+    "link": "https://pt.aliexpress.com/item/1005004521810408.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000029461358402%22%7D&pdp_npi=3%40dis%21BRL%21494.36%21271.87%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000029461358402%21sea%21BR%210&curPageLogUid=FVLtGc3wBdkH",
+    "bestPrice": "R$ 271,87"
+  },
+  {
+    "title": "Ram ddr4 8gb 16gb 3200mhz 3600mhz ddr4 memória ram ddr4 memória ram ddr4 memória",
+    "link": "https://pt.aliexpress.com/item/1005003142438492.html?algo_pvid=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7&aem_p4p_detail=2023022216370513011630374845180003456890&algo_exp_id=59f5e7f2-16ac-4163-b5d6-a6e57ab2dec7-9&pdp_ext_f=%7B%22sku_id%22%3A%2212000032028928762%22%7D&pdp_npi=3%40dis%21BRL%21997.14%21299.11%21%21%21%21%21%40211be3cd16771126257624177d06d7%2112000032028928762%21sea%21BR%210&curPageLogUid=kRYzxCEk99tr&ad_pvid=2023022216370513011630374845180003456890_2&ad_pvid=2023022216370513011630374845180003456890_2",
+    "bestPrice": "R$ 299,11"
+  }
+]
