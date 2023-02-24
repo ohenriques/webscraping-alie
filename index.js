@@ -9,7 +9,7 @@ const list = [];
 
 let c = 1;
 (async () => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   console.log('starting');
